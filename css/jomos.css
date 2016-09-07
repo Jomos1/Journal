@@ -1,0 +1,43 @@
+
+img {
+	width: 120px;
+	height: auto;
+}
+
+#first {
+	background-color: #89818A;
+	border-radius: 25px;
+    border: 2px solid #89818A;
+    padding: 20px;
+    width: 700px;
+    height: 310px;
+    margin:0px 300px;
+    margin-bottom: 10px;
+}
+
+#sec {
+	background-color: #89818A;
+	border-radius: 25px;
+    border: 2px solid #89818A;
+    padding: 20px;
+    width: 700px;
+    height: 240px;
+    margin-top:20px;
+    margin:0px 300px;
+}
+
+#sidebar {
+    position:absolute;
+    top:0; 
+    bottom:0; 
+    left:0;
+    width:100px;
+    background:lightgray;
+    border: 2px solid #000;
+    height:850px;
+
+}
+
+body {
+	background-image: url(http://i.imgur.com/VKTPd2M.jpg);
+}
