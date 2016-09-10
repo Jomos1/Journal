@@ -1,4 +1,5 @@
 
+
 img {
 	width: 120px;
 	height: auto;
@@ -11,7 +12,7 @@ img {
     padding: 20px;
     width: 700px;
     height: 310px;
-    margin:0px 300px;
+    margin:-575px 300px;
     margin-bottom: 10px;
 }
 
@@ -22,22 +23,21 @@ img {
     padding: 20px;
     width: 700px;
     height: 240px;
-    margin-top:20px;
+    margin-top:-200px;
     margin:0px 300px;
 }
 
 #sidebar {
-    position:absolute;
-    top:0; 
-    bottom:0; 
-    left:0;
+    position:relative;
     width:100px;
     background:lightgray;
-    border: 2px solid #000;
-    height:850px;
+    height: 100%;
 
 }
 
 body {
 	background-image: url(http://i.imgur.com/VKTPd2M.jpg);
 }
+
+
+
