@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 5e0d9a18836cee2f4ab69a983cd0da9cc3371591
 img {
 	width: 120px;
 	height: auto;
@@ -13,8 +18,13 @@ header {
     padding: 20px;
     width: 700px;
     height: 310px;
+<<<<<<< HEAD
     margin:auto 300px;
     margin-bottom: 20px;
+=======
+    margin:-575px 300px;
+    margin-bottom: 10px;
+>>>>>>> 5e0d9a18836cee2f4ab69a983cd0da9cc3371591
 }
 
 #sec {
@@ -24,6 +34,7 @@ header {
     padding: 20px;
     width: 700px;
     height: 240px;
+<<<<<<< HEAD
     margin-bottom: 20px; 
     margin:20px 300px;
 }
@@ -53,9 +64,26 @@ header {
     width:110px;
     background:lightgray;
     height: 70%;
+=======
+    margin-top:-200px;
+    margin:0px 300px;
+}
+
+#sidebar {
+    position:relative;
+    width:100px;
+    background:lightgray;
+    height: 100%;
+>>>>>>> 5e0d9a18836cee2f4ab69a983cd0da9cc3371591
 
 }
 
 body {
 	background-image: url(http://i.imgur.com/VKTPd2M.jpg);
 }
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> 5e0d9a18836cee2f4ab69a983cd0da9cc3371591
