@@ -51,6 +51,27 @@ header {
     margin:20px 300px;
 }
 
+#fith {
+    background-color: #89818A;
+    border-radius: 25px;
+    border: 2px solid #89818A;
+    padding: 20px;
+    width: 700px;
+    height: 240px;
+    margin:20px 300px;
+}
+
+#six {
+    background-color: #89818A;
+    border-radius: 25px;
+    border: 2px solid #89818A;
+    padding: 20px;
+    width: 700px;
+    height: 240px;
+    margin:20px 300px;
+}
+
+
 #sidebar {
     position:relative;
     width:100px;
