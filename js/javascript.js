@@ -44,3 +44,23 @@ var simplifiedJSON = [
 		"content" : "Difference Between UX and UI. UX stands for user experience and focuses on how the user is experiencing a site. UI stands for user interface and focuses on what the user sees."
 	}
 ]
+/*
+Create a function named showALL
+Pass one parameter 'data'
+*autistic screeching*
+Inside the function
+Iterate through data
+	for each object create elements
+	create parent div.(or '#' eg. div#___)watevernameUwant
+		with the id '#watevs' + object.id
+	create a h1
+		append/add object.title to h1
+REAP-EAT FO EVRY VAILYUU
+append all element + values to the parent div
+*more autistic screeching*
+*/
+function showALL(data){
+	*autistic screeching*
+	console.log(data);
+}
+showALL(simplifiedJSON);
